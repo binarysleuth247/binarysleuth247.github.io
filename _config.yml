@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: binarysleuth247
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Documenting Journey To Unknown World
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,9 +14,9 @@ baseurl: ""
 username: binarysleuth247
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Documenting Journey To Unknown World
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: binarysleuth247@wearehackerone.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
