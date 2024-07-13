@@ -5,11 +5,11 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
-  weight: 5
+- name: Penetration Testing
+  weight: 3
 
-- name: JavaScript
-  weight: 4
+- name: Bug Bounty
+  weight: 5
 
 - name: Python
   weight: 2
@@ -20,23 +20,23 @@
 - name: CSS3
   weight: 3
 
-- name: SASS
+- name: Java
   weight: 3
 
-- name: Java
+- name: C/C++
   weight: 1
 
-- name: Dart
+- name: OSINT
   weight: 1
 
-- name: Swift
+- name: Content Writing
   weight: 1
 
-- name: Kotlin
+- name: Burpsuite
   weight: 1
 
-- name: C++
-  weight: 2
+- name: Linux System Administration
+  weight: 5
 
-- name: Ruby
-  weight: 2
+- name: Network Administration
+  weight: 3
